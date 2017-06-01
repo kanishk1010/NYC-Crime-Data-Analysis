@@ -1,0 +1,2 @@
+This directory contains a Jupyter notebook that generates the red/orange/yellow visualizations used in Part 1 of our project,
+along with .png files for several of our visualizations. Additional visualizations can be found in in other subfolders.
